@@ -1,0 +1,149 @@
+*{
+    font-family:Cursiva;
+    margin:0px;
+    padding:0px;
+
+}
+
+body{
+    background-color:white  ;
+}
+
+.titulo_glosario{
+    width: 1400px;
+    height: 100px;
+    margin:20px auto;
+}
+
+.encabezado{
+    width: 100%;
+    height: 100px;
+  
+    background-color: aqua; 
+
+   
+}
+:root{
+    --color1:red;
+    --colortitulo1:#E58501;
+    --colortitulo2:#2874A6;
+        
+    --colorTexto:black;
+}
+
+
+
+    
+.formulario_compu{
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+    padding: 15px 0px 0px 0px ;
+    
+}
+
+.TITULO{
+    text-align: center;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.titulo{
+    font-family: fantasy; font-size: 60px;
+    color: black;
+}
+
+.parrafo_1{  
+    text-align: center;
+}
+
+.parrafo_one{
+    font-size: 18px;
+    font-family: verdana;
+}
+
+
+table{
+    margin: 15px 0px 0px 280px;
+    margin: auto;
+    
+}
+
+
+
+
+.titulotabla{
+    background-color: purple;
+   
+}
+
+.titulotabla{
+    color:#fff;
+    text-align: center;
+    font-size: 40px;
+    padding: 
+    margin: 15px;
+    background-color: mediumblue;  
+    font-family: fantasy;
+}
+
+.titulos_tabla{
+    font-size:17px;
+    font-family: verdana;
+}
+
+.parrafo_tabla{
+    font-family: verdana;
+    font-size: 17px;   
+}
+
+
+
+/*--------------------------------*/
+
+.sec_listados{
+    padding: 0px 0px 0px 150px;
+    margin: 0px;
+}
+
+
+.etiquetas_texto{
+    font-family: Cursive;
+    font-size: 20px;
+    
+}
+.Etiquetas_título1{
+    font-family: Century Gothic;
+    font-size: 25px;
+    color: var(--colortitulo1);
+ 
+}
+
+
+.Etiquetas_título2{
+ font-family: Century Gothic;
+    font-size: 25px;
+    color: var(--colortitulo2);
+}
+
+
+
+
+
+/*-------------------------------*/
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: #00D9DC  ;
+    text-align: center;
+}
+
+.nombre{
+    color: black;
+    font-size: 55px;
+    font-family: fantasy;
+}
