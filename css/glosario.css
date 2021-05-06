@@ -6,7 +6,20 @@
 }
 
 body{
-    background-color:white  ;
+    background-image:url(../img/programación.gif);
+    margin: auto;
+    width: 100%;
+    height: 500px;
+    background-size: cove;
+    padding: 0px 0px 0px 0px;
+    box-sizing: border-box;
+    
+}
+.contenido{
+    width: 1400px;
+    margin: auto;
+    background-color:white;
+    text-align:justify ;
 }
 
 .titulo_glosario{
@@ -57,18 +70,86 @@ body{
 }
 
 .parrafo_1{  
-    text-align: center;
+    text-align:justify;
+    background-color:blanchedalmond;
+    margin: 0px 175px 0px 175px;
+    border-radius: 60px;
+    border:orangered solid 10px;
+}
+
+.intro_html{
+     margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.titulo_html{
+    display:block;
+    font-size: 50px;
+    font-family: verdana;
+    padding: 35px 300px 0px 300px;
+ }
+
+
+.p_html{
+    font-size: 18px;
+    font-family:verdana;
+    padding: 0px 50px 50px 150px;
+    font-weight:normal;
+    
+}
+
+.img_html{
+    padding:25px 200px 15px 10px;
+}
+
+.parrafo_2{
+    text-align:justify;
+    background-color:#94D1C5;
+    margin: 0px 175px 0px 0px;
+    border-radius: 60px;
+    border:dodgerblue solid 10px;
+}
+
+.intro_css{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.titulo_css{
+    display:block;
+    font-size: 50px;
+    font-family: verdana;
+    padding: 35px 300px 0px 350px;
+}
+
+.p_css{
+     font-size: 18px;
+    font-family:verdana;
+    padding: 0px 50px 50px 150px;
+    font-weight:normal;
+}
+
+.img_css{
+    padding:25px 200px 15px 10px;
 }
 
 .parrafo_one{
     font-size: 18px;
     font-family: verdana;
+    text-align:center;
+    
 }
 
 
 table{
     margin: 15px 0px 0px 280px;
     margin: auto;
+    border:black solid 3.5px;
+    border-radius: 5px;
     
 }
 
@@ -100,6 +181,16 @@ table{
     font-size: 17px;   
 }
 
+td{
+    padding:10px;
+    border: black solid 3.5px;
+    border-radius:5px;
+}
+
+td:hover{
+    background-color:aquamarine;
+}
+
 
 
 /*--------------------------------*/
@@ -113,11 +204,12 @@ table{
 .etiquetas_texto{
     font-family: Cursive;
     font-size: 20px;
+    text-align:justify;
     
 }
 .Etiquetas_título1{
     font-family: Century Gothic;
-    font-size: 25px;
+    font-size: 35px;
     color: var(--colortitulo1);
  
 }
@@ -125,7 +217,7 @@ table{
 
 .Etiquetas_título2{
  font-family: Century Gothic;
-    font-size: 25px;
+    font-size: 35px;
     color: var(--colortitulo2);
 }
 
@@ -133,12 +225,24 @@ table{
     margin:15px 0px 0px 280px;
 }
 
+.tablas_titulo{
+    margin: 40px 240px 20px 80px;
+    border:black solid 3.5px;
+}
+
 .titulo_tablas{
   font-family:fantasy;
     font-size: 25px;
     text-align:center;
     background-image:linear-gradient(10deg, #31B7DB  0%, 50%,#EAE712     150%);
+}
 
+.etiquetas_negrita{
+    font-weight:bold;
+    text-align:center;
+    color:darkblue;
+    font-family:sans-serif;
+    font-size: 21px;
 }
 
 
