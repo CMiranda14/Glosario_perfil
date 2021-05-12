@@ -50,11 +50,13 @@ background-image:linear-gradient(10deg, #F76B1C 0%, 5%, #FAD961 150%);
 
 .nav li{
     padding:25px;
+    transition:0.3s;
 }
 .nav li:hover{
     background-color: #ECEA6B;
     padding: 15px 30px 35px 30px;
     border-radius:25px;
+    transition:0.3s;
 }
 
 .nav a{
