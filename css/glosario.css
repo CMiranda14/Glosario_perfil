@@ -53,17 +53,23 @@ body{
     color: black;
     text-align: center;
     font-family: fantasy;
-    font-size: 60px;
+    font-size: 63px;
     padding: 15px 0px 100px 0px ;
     align-items:center;
     
+}
+
+.Descripción{
+    width:700px;
+    height:200px;
+    margin:auto;
 }
 
 .TITULO{
     text-align: center;
     font-family: fantasy;
     text-align: center;
-    font-size: 40px;
+    font-size: 43px;
     align-items:center;
     
 }
@@ -96,7 +102,7 @@ body{
 
 .titulo_html{
     display:block;
-    font-size: 50px;
+    font-size: 53px;
     font-family: verdana;
     padding: 35px 300px 0px 300px;
     align-items:center;
@@ -104,7 +110,7 @@ body{
 
 
 .p_html{
-    font-size: 20px;
+    font-size: 23px;
     font-family:verdana;
     padding: 0px 50px 50px 150px;
     font-weight:normal;
@@ -113,7 +119,7 @@ body{
 }
 
 .img_html{
-    padding:25px 200px 15px 10px;
+    padding:150px 130px 15px 5px;
 }
 
 .parrafo_2{
@@ -139,25 +145,29 @@ body{
 
 .titulo_css{
     display:block;
-    font-size: 50px;
+    font-size: 53px;
     font-family: verdana;
     padding: 35px 300px 0px 350px;
     align-items:center;
 }
 
 .p_css{
-     font-size: 20px;
+     font-size: 23px;
     font-family:verdana;
-    padding: 0px 50px 50px 150px;
+    padding: 0px 0px 50px 150px;
     font-weight:normal;
 }
 
+.imgcss{
+    margin-right:0px;
+}
+
 .img_css{
-    padding:25px 200px 15px 10px;
+    padding:25px 140px 15px 20px;
 }
 
 .parrafo_one{
-    font-size: 20px;
+    font-size: 23px;
     font-family: verdana;
     text-align:center;
     
@@ -184,20 +194,20 @@ table{
 .titulotabla{
     color:#fff;
     text-align: center;
-    font-size: 40px;
+    font-size: 45px;
     padding:15px ;
     background-color: mediumblue;  
     font-family:fantasy;
 }
 
 .titulos_tabla{
-    font-size:20px;
+    font-size:23px;
     font-family: verdana;
 }
 
 .parrafo_tabla{
     font-family: verdana;
-    font-size: 20px;   
+    font-size: 23px;   
 }
 
 td{
@@ -212,7 +222,7 @@ td:hover{
 
 .Conexion_css{
     width:800px;
-    height:600px;
+    height:200px;
     margin:auto;
 }
 
@@ -247,7 +257,6 @@ td:hover{
 }
 
 .tablas_contenido{
-    margin:15px 0px 0px 280px;
     align-items:center;
 }
 

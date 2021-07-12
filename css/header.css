@@ -35,7 +35,7 @@ header{
 
 .logo{
     color: var(--colorTexto);
-    font-size:35px
+    font-size:40px
     
 }
 .nav{
@@ -45,7 +45,7 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    font-size:20px;
+    font-size:23px;
 }
 
 
