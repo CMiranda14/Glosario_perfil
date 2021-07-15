@@ -21,9 +21,9 @@ body{
 }
 
 .banner_index > .caja_izquierda >h2{
-    font-size:40px;
+    font-size:45px;
      color: white;
-     padding:125px 0px 10px 50px;
+     padding:125px 0px 10px 0px;
      align-items:center;
      width:auto;
 }
@@ -36,14 +36,19 @@ body{
 
 .parrafo_1 {
     color:white;
-    font-size: 20px;
-    padding:0px 0px 10px 50px;
+    font-size: 23px;
+    padding:0px 0px 10px 0px;
     align-items:center;
+    text-align:center;
+}
+
+.frase{
+    text-align:center;
 }
 
 .botones{
     align-items: center;
-    padding: 10px 0px 0px 80px;
+    margin:auto;
 
     
 }
