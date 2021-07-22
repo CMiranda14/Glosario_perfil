@@ -4,14 +4,14 @@
 
 <img src="https://cdn.pixabay.com/photo/2019/07/14/16/29/pen-4337524_960_720.jpg">
 
-##🔍 Datos:
+## 🔍 Datos:
 
 |  Nombre: |Cristopher David Tum Miranda|
 | ------------ |
-| **Colegio:**  |**Santa Catalina Labouré**    |
-|** Grado:**  |**IV Bachillerato en Ciencias y Letras con Orientación en Computación**|
-|** Materia: ** |**Laboratorio 1**|
-| **Docente:**  |**Joussue Emmanuel Fuentes**|
+| **Colegio:**  |**Santa Catalina Labouré**    
+| ** Grado:**  | **IV Bachillerato en Ciencias y Letras con Orientación en Computación**
+| ** Materia: ** | **Laboratorio 1**
+| **Docente:**  | **Joussue Emmanuel Fuentes** 
 
 
 
