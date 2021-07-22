@@ -6,12 +6,12 @@
 
 ## 🔍 Datos:
 
-|  Nombre: | Cristopher David Tum Miranda |
-| ------------ | |------------|
-| **Colegio:**  | **Santa Catalina Labouré**    
-| **Grado:**  | **IV Bachillerato en Ciencias y Letras con Orientación en Computación**
-| **Materia:** | **Laboratorio 1**
-| **Docente:**  | **Joussue Emmanuel Fuentes** 
+| Nombre:  | Cristopher David Tum Miranda   |
+| ------------ | ------------ |
+| **Colegio:**  |**Santa Catalina Labouré**   |
+| **Grado**  |**IV Bachillerato en Ciencias y Letras con Orientación en Computación**   |
+| **Materia:**  |**Laboratorio 1**   |
+| **Docente:**  |**Jossue Emmanuel Fuentes**   |
 
 
 
