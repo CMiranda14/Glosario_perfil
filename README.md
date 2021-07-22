@@ -6,31 +6,31 @@
 
 ## 🔍 Datos:
 
-|  Nombre: |Cristopher David Tum Miranda|
+|  Nombre: | Cristopher David Tum Miranda |
 | ------------ |
-| **Colegio:**  |**Santa Catalina Labouré**    
-| ** Grado:**  | **IV Bachillerato en Ciencias y Letras con Orientación en Computación**
-| ** Materia: ** | **Laboratorio 1**
+| **Colegio:**  | **Santa Catalina Labouré**    
+| **Grado:**  | **IV Bachillerato en Ciencias y Letras con Orientación en Computación**
+| **Materia:** | **Laboratorio 1**
 | **Docente:**  | **Joussue Emmanuel Fuentes** 
 
 
 
 
-##🧭 Índice
+## 🧭 Índice
 
-- #### **Portada**
-- ####**AntePortada**
-- ####**Índice**
-- #### **Objetivos**
-- ####**Documentación**
-- ####**Objetivos Futuros**
+-  **Portada**
+-  **AntePortada**
+-  **Índice**
+-  **Objetivos**
+-  **Documentación**
+- **Objetivos Futuros**
 
 ------------
 
 
 
 
-##✏️ Objetivos 
+## ✏️ Objetivos 
 
 ### 1) Saber
 -  Comprender y poder llegar a nalizar de la mejor manera, los diferntes temas de la materia.
@@ -45,7 +45,7 @@
 ------------
 
 
-##📝 Documentación
+## 📝 Documentación
 
 |  Nombre de Trabajo: |  Link:  |
 |------------|  -------- |
