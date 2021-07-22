@@ -49,7 +49,7 @@
 
 |  Nombre de Trabajo: |  Link:  |
 |------------|  -------- |
-| **Glosario de Etiquetas** |** https://cmiranda14.github.io/Glosario_perfil/**
+| **Glosario de Etiquetas** |**https://cmiranda14.github.io/Glosario_perfil/**
 
 ### *Este Contiene:
 
