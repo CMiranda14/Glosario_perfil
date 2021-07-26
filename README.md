@@ -23,6 +23,9 @@
 -  **Índice**
 -  **Objetivos**
 -  **Documentación**
+     a. **Banner (Portada de la página, perfil, repositorio, glosario)*
+     b. **Glosario ( Etiquetas html, propiedades css)*
+        b.1 **(Sección de etiquetas, sección de estilos)**
 - **Objetivos Futuros**
 
 ------------
