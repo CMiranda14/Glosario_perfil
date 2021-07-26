@@ -25,12 +25,12 @@
 -  **Documentación**
     - **a. Glosario HTML CSS**
     - **b. Home page**
-    - 
-       **b.1 Banner de introducción**
+     
+       **-b.1 Banner de introducción**
     - **c. Glosario**
-    - 
+    
        **c.1 Contendio HTML**
-     - 
+      
        **c.2 Contenido CSS**
 - **Objetivos Futuros**
 
