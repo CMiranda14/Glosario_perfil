@@ -23,10 +23,15 @@
 -  **Índice**
 -  **Objetivos**
 -  **Documentación**
-    - **a. Banner (Portada de la página, perfil, repositorio, glosario)**
-    - **b. Glosario ( Etiquetas html, propiedades css)**
+    - **a. Glosario HTML CSS**
+    - **b. Home page**
     - 
-       **b.1 (Sección de etiquetas, sección de estilos)**
+       **b.1 Banner de introducción**
+    - **c. Glosario**
+    - 
+       **c.1 Contendio HTML**
+     - 
+       **c.2 Contenido CSS**
 - **Objetivos Futuros**
 
 ------------
