@@ -36,3 +36,55 @@
 
 ------------
 
+
+
+## ✏️ Objetivos 
+
+### 1) Saber
+-  Comprender y poder llegar a nalizar de la mejor manera, los diferntes temas de la materia.
+
+### 2) Saber Hacer
+- Poder trabajar mejor, y lograr desarrollar mi mayor potencial posible para progresar 
+ en la materia.
+
+### 3) Saber Ser y Estar
+- Adquirir el hábito de adapatarse a los diferentes temas y actividades de la materia.
+
+------------
+
+
+## 📝 Documentación
+
+|  Nombre de Trabajo: |  Link:  |
+|------------|  -------- |
+| **Glosario de Etiquetas** |**https://cmiranda14.github.io/Glosario_perfil/**
+
+### *Este Contiene:
+
+- Etiquetas dirigidas al texto
+- Etiquetas dirigidas a objetos
+- Etiquetas para definir el documento
+- Propiedades css dirigidas a texto
+- Propiedades dirigidas a objetos
+- Propiedades dirigidas para Tablas
+
+Entre muchas otras etiquetas HTML y propiedades CSS.
+
+
+------------
+
+## 📅Objetivos Futuros
+
+### 1) Organización
+-  Tener una mejor Organizacion del tiempo, y de esta forma ser más productivo.
+
+### 2) Investigación 
+- Poder aplicar de la mejor manera posible y lo aprendido para diferentes proyectos        educativos, profesionales o laborales.
+
+### 3) Propósito
+- Trabajar cada vez con mas desempeño y dedicación.
+
+------------
+
+
+
