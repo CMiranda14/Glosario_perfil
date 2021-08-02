@@ -176,8 +176,8 @@ body{
 
 
 table{
-    height:250px;
-    width:910px;
+    height:300px;
+    width:920px;
     margin:auto;
     border:black solid 3.5px;
     border-radius: 5px;
@@ -237,13 +237,13 @@ td:hover{
 
 .etiquetas_texto{
     font-family: verdana;
-    font-size: 30px;
+    font-size: 28px;
     text-align:justify;
     
 }
 .Etiquetas_título1{
     font-family: Century Gothic;
-    font-size: 35px;
+    font-size: 30px;
     color: var(--colortitulo1);
     text-align:center;
  
@@ -252,7 +252,7 @@ td:hover{
 
 .Etiquetas_título2{
  font-family: Century Gothic;
-    font-size: 35px;
+    font-size: 30px;
     color: var(--colortitulo2);
     text-align:center;
 }

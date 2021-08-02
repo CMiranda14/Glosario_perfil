@@ -37,23 +37,27 @@ header{
     color: var(--colorTexto);
     font-size:40px
     
+    
 }
 .nav{
     list-style: none;
-    width: 200px;
+    width: 300px;
     
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    font-size:25px;
+    font-size:2.1em;
     text-align:center;
-    margin-left:30px;
+    margin-left:20px;
+    margin-top:15px;
+  
 }
 
 
 .nav li{
     padding:18px;
     transition:0.3s;
+    flex-wrap:wrap;
 }
 .nav li:hover{
     background-color: #ECEA6B;
