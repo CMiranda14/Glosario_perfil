@@ -23,6 +23,7 @@ body{
     text-align:justify ;
     align-items:center;
     justify-content:center;
+
 }
 
 .titulo_glosario{
@@ -56,12 +57,14 @@ body{
     font-size: 63px;
     padding: 15px 0px 100px 0px ;
     align-items:center;
+    margin:center;
+   
     
 }
 
 .Descripción{
-    width:700px;
-    height:200px;
+    width:800px;
+    height:auto;
     margin:auto;
 }
 
@@ -83,48 +86,57 @@ body{
 
 .parrafo_1{  
     margin:auto;
-    height:1100px;
-    width:950px;
+    height:auto;
+    width:800px;
     text-align:justify;
     background-color:blanchedalmond;
     border-radius: 60px;
     border:orangered solid 10px;
     align-items:center;
-    justify-content:center;
     flex-wrap: wrap;
+    
 }
 
 .intro_html{
     margin-top: 20px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+   
+  
+    
+   
 }
 
 .titulo_html{
     display:block;
     font-size: 53px;
     font-family: verdana;
-    padding: 35px 300px 0px 300px;
+    height:auto;
+    width:auto;
     align-items:center;
+    text-align:center;
+    margin-top:50px;
+    
  }
 
 
 .p_html{
     font-size: 28px;
     font-family:verdana;
-    padding: 0px 50px 50px 150px;
+   height:auto;
+   width:auto;
     font-weight:normal;
     align-items:center;
+    margin:0px 50px 0px 50px;
     
 }
 
 .img_html{
-    padding:150px 130px 15px 5px;
+      display:block;
+      margin:auto;
+        
 }
 
 .parrafo_2{
-    height:1300px;
+    height:auto;
     width: 900px;
     margin:auto;
     text-align:justify;
@@ -138,9 +150,6 @@ body{
 
 .intro_css{
     margin-top: 20px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
     align-items:center;
 }
 
@@ -148,24 +157,25 @@ body{
     display:block;
     font-size: 53px;
     font-family: verdana;
-    padding: 35px 300px 0px 350px;
+     margin-top:50px;;
     align-items:center;
+    text-align:center;
 }
 
 .p_css{
      font-size: 28px;
     font-family:verdana;
-    padding: 0px 0px 50px 150px;
+    margin:0px 50px 0px 50px;
     font-weight:normal;
 }
 
-.imgcss{
-    margin-right:0px;
+.img_css{
+ display:block;
+ margin:auto;
+ margin-top:50px;
 }
 
-.img_css{
-    padding:25px 140px 15px 20px;
-}
+
 
 .parrafo_one{
     font-size: 30px;
@@ -176,21 +186,22 @@ body{
 
 
 table{
-    height:300px;
-    width:920px;
+    height:auto;
+    width:58%;
     margin:auto;
     border:black solid 3.5px;
     border-radius: 5px;
+    
+    justify-content:center;
     
 }
 
 
 
 
-.titulotabla{
-    background-color: purple;
-   
-}
+
+
+
 
 .titulotabla{
     color:#fff;
@@ -202,17 +213,18 @@ table{
 }
 
 .titulos_tabla{
-    font-size:28px;
+    font-size:30px;
     font-family: verdana;
 }
 
 .parrafo_tabla{
     font-family: verdana;
-    font-size: 27px;   
+    font-size: 30px;   
 }
 
 td{
-    padding:10px;
+    
+    padding:25px;
     border: black solid 3.5px;
     border-radius:5px;
 }
@@ -231,7 +243,8 @@ td:hover{
 
 .sec_listados{
     justify-content:center;
-    align-items:center;
+  
+    height:auto;
 }
 
 
@@ -239,14 +252,17 @@ td:hover{
     font-family: verdana;
     font-size: 28px;
     text-align:justify;
+    height:auto;
     
+
 }
 .Etiquetas_título1{
     font-family: Century Gothic;
     font-size: 30px;
     color: var(--colortitulo1);
     text-align:center;
- 
+    height:auto;
+
 }
 
 
@@ -255,17 +271,13 @@ td:hover{
     font-size: 30px;
     color: var(--colortitulo2);
     text-align:center;
+    height:auto;
+
 }
 
-.tablas_contenido{
-    align-items:center;
-}
 
-.tablas_titulo{
-    align-items:center;
-    justify-content:center;
-    border:black solid 3.5px;
-}
+
+
 
 .titulo_tablas{
   font-family:fantasy;
@@ -273,6 +285,8 @@ td:hover{
     text-align:center;
     background-image:linear-gradient(10deg, #31B7DB  0%, 50%,#EAE712     150%);
     align-items:center;
+    height:auto;
+
 }
 
 .etiquetas_negrita{
@@ -281,6 +295,8 @@ td:hover{
     color:darkblue;
     font-family:sans-serif;
     font-size: 33px;
+    height:auto;
+
 }
 
 
