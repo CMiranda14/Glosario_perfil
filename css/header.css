@@ -41,7 +41,7 @@ header{
 }
 .nav{
     list-style: none;
-    width: 300px;
+    width: 250px;
     
     display: flex;
     flex-direction: row;
